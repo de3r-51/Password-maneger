@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+hAOD444GAs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\delci\\source\\repos\\Gestor de Palavras-passe2\\Gestor de Palavras-passe2\\Gestor de Palavras-passe2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\delci\\.nuget\\packages\\fluentwpf\\0.10.2\\fluentwpf.0.10.2.nupkg.sha512",
+    "C:\\Users\\delci\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\delci\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\delci\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\delci\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512",
+    "C:\\Users\\delci\\.nuget\\packages\\wpf-ui\\4.0.0-rc.2\\wpf-ui.4.0.0-rc.2.nupkg.sha512",
+    "C:\\Users\\delci\\.nuget\\packages\\wpf-ui.abstractions\\4.0.0-rc.2\\wpf-ui.abstractions.4.0.0-rc.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor de Palavras-passe2.csproj.AssemblyReference.cache
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor_de_Palavras_passe.Dashboard.resources
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor_de_Palavras_passe.Form1.resources
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor de Palavras-passe2.csproj.GenerateResource.cache
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor de Palavras-passe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor de Palavras-passe2.AssemblyInfoInputs.cache
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor de Palavras-passe2.AssemblyInfo.cs
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor de Palavras-passe2.csproj.CoreCompileInputs.cache
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\bin\Debug\net8.0-windows\Gestor de Palavras-passe2.exe
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\bin\Debug\net8.0-windows\Gestor de Palavras-passe2.deps.json
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\bin\Debug\net8.0-windows\Gestor de Palavras-passe2.runtimeconfig.json
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\bin\Debug\net8.0-windows\Gestor de Palavras-passe2.dll
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\bin\Debug\net8.0-windows\Gestor de Palavras-passe2.pdb
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\bin\Debug\net8.0-windows\FluentWPF.dll
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\bin\Debug\net8.0-windows\MaterialSkin.dll
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\bin\Debug\net8.0-windows\Wpf.Ui.dll
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\bin\Debug\net8.0-windows\Wpf.Ui.Abstractions.dll
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor_de_Palavras_passe.Cadastro.resources
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor_de_Palavras_passe.Login.resources
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor d.21A2586B.Up2Date
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor de Palavras-passe2.dll
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\refint\Gestor de Palavras-passe2.dll
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor de Palavras-passe2.pdb
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor de Palavras-passe2.genruntimeconfig.cache
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\ref\Gestor de Palavras-passe2.dll
+C:\Users\delci\source\repos\Gestor de Palavras-passe2\Gestor de Palavras-passe2\obj\Debug\net8.0-windows\Gestor_de_Palavras_passe2.Properties.Resources.resources
